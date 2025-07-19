@@ -1,3 +1,5 @@
+name: zmk-keyboard-splitfire
+
 build:
   settings:
     board_root: .

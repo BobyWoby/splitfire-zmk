@@ -1,0 +1,4 @@
+config SHIELD_SPLITFIRE_LEFT
+    def_bool $(shields_list_contains,splitfire_left)
+config SHIELD_SPLITFIRE_RIGHT
+    def_bool $(shields_list_contains,splitfire_right)

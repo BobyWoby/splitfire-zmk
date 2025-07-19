@@ -1,4 +1,4 @@
-include <dt-bindings/zmk/matrix_transform.h>
+#include <dt-bindings/zmk/matrix_transform.h>
 
 / {
     chosen {
@@ -25,7 +25,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5)                 RC(3,12) RC(3,13
         >;
     };
 
-    kscan0: kscan {
+    kscan0: kscan0 {
         compatible = "zmk,kscan-gpio-matrix";
         wakeup-source;
         diode-direction = "col2row";

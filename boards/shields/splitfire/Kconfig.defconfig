@@ -1,6 +1,6 @@
 if SHIELD_SPLITFIRE_LEFT
 
-config ZMK_SPLITFIRE
+config ZMK_SPLITFIRE_NAME
     default "Splitfire"
 
 config ZMK_SPLIT_ROLE_CENTRAL

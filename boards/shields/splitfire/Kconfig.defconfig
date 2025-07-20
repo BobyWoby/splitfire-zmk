@@ -1,11 +1,9 @@
 if SHIELD_SPLITFIRE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Splitfire"
-
+    default "SPLITFIRE"
+    
 config ZMK_SPLIT_ROLE_CENTRAL
-    default y
-config ZMK_BLE
     default y
 
 endif

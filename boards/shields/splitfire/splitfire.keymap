@@ -56,7 +56,7 @@
   &trans &trans &trans &trans    &trans     &trans                     &trans         &trans   &trans       &trans   &trans &trans
   &trans &trans &trans &kp PLUS  &kp MINUS  &kp UNDER /*Home Row*/     &kp KP_EQUAL   &kp STAR &kp KP_SLASH &kp AMPS &trans &trans
   &trans &trans &trans &trans &trans &trans                            &trans         &trans   &trans       &trans   &trans &trans
-                          &cp LMETA &kp SPACE  &kp LALT                &trans         &trans   &trans
+                          &trans &trans &trans                         &trans         &trans   &trans
                         >;
                 };
         };

@@ -39,7 +39,7 @@
                         bindings = <
    &kp F1    &kp F2 &kp F3 &kp F4    &kp F5    &kp F6                             &kp F7         &kp F8        &kp F9     &kp F10   &kp F11   &kp F12
    &kp TAB   &kp Q  &kp W  &kp E     &kp R     &kp T /**/                         &kp Y          &kp U         &kp I      &kp O     &kp P     &kp BSLH
-   &kp CAPS  &kp A  &kp LT &kp LBRC  &kp KP_LPAR  &kp LBKT /*Home Row*/           &kp RBKT       &kp KP_LPAR   &kp RBRC   &kp GT    &kp SEMI  &kp SQT
+   &kp CAPS  &kp A  &kp LT &kp LBRC  &kp KP_LPAR  &kp LBKT /*Home Row*/           &kp RBKT       &kp KP_RPAR   &kp RBRC   &kp GT    &kp SEMI  &kp SQT
    &kp LSHFT &kp Z  &kp X  &kp C     &kp V     &kp B                              &kp N          &kp M         &kp COMMA  &kp DOT   &kp FSLH  &kp ESC
                            &kp LMETA &kp SPACE &kp LALT                           &lt RAISE BSPC &mt LCTRL RET &mo LOWER
                         >;

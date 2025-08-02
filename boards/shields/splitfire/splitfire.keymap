@@ -55,7 +55,7 @@
   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4           &trans        &trans   &trans       &trans   &trans &trans
   &trans &trans       &trans       &trans       &trans       &trans                     &trans        &trans   &trans       &trans    &trans &trans
   &trans &trans       &trans       &kp PLUS     &kp MINUS    &kp UNDER /*Home Row*/     &kp KP_EQUAL  &kp STAR &kp KP_SLASH &kp AMPS  &trans &trans
-  &trans &trans       &trans       &trans       &trans       &trans                     &kp LEFT      &kp UP   &kp DOWN     &kp RIGHT   &trans &trans
+  &trans &trans       &trans       &trans       &trans       &trans                     &kp LEFT      &kp DOWN   &kp UP     &kp RIGHT   &trans &trans
                           &trans &trans &trans                                          &trans        &trans   &trans
                         >;
                 };
